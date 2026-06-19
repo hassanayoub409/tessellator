@@ -1,0 +1,17 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+__MACOSX/
+
+src/main
+src/*.o
+*.out
+
+SFML-2.1/lib/
+SFML-2.1/Frameworks/
+SFML-2.1/extlibs/
+
+.vscode/
+.idea/
+*.xcodeproj/
+*.xcworkspace/
