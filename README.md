@@ -20,9 +20,16 @@ A C++ interactive application that lets you generate and explore mathematical te
 
 ## Screenshots
 
+**Landing Screen
 ![Landing Screen](https://github.com/hassanayoub409/tessellator/blob/1a94a324ea42fe01398cdbfb06966c810a9fcc69/main.png)
+
+**Shape Selection Screen
 ![Shape Selection Screen](https://github.com/hassanayoub409/tessellator/blob/1a94a324ea42fe01398cdbfb06966c810a9fcc69/options.png)
+
+**Penrose Tiling Example
 ![Penrose Tiling Example](https://github.com/hassanayoub409/tessellator/blob/1a94a324ea42fe01398cdbfb06966c810a9fcc69/penrose.png)
+
+**Voronoi Cells Example
 ![Voronoi Cells Example](https://github.com/hassanayoub409/tessellator/blob/1a94a324ea42fe01398cdbfb06966c810a9fcc69/varanoi.png)
 
 ---
