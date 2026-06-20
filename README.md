@@ -161,4 +161,4 @@ This project is for educational and personal use.
 SFML is licensed under the [zlib/png license](https://www.sfml-dev.org/license.php).
 
 
-**This project was developed as a part Object Oriented Programming course.**
+**This project was developed as a part of Object Oriented Programming course requirement at Punjab University College of Information Technology.**
