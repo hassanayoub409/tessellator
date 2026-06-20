@@ -159,3 +159,6 @@ The-Tessellator/
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 This project is for educational and personal use.  
 SFML is licensed under the [zlib/png license](https://www.sfml-dev.org/license.php).
+
+
+**This project was developed as a part Object Oriented Programming course.**
